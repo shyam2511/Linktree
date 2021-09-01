@@ -1,6 +1,6 @@
 body{
 				margin: 20px;
-				background-image: url(bgimg.webp);
+				background-image: linear-gradient(135deg, #48033f, #620011);
 				background-repeat: repeat-y;
 				background-size: 100%;
 			}
