@@ -20,7 +20,7 @@
 		
 			h1 {
 				text-align: center;
-				color: whitesmoke;
+				color: white;
 				font-size: 60px;
 				opacity: 90%;
 
@@ -29,6 +29,7 @@
 			h2{
 
 				margin-bottom: 50px;
+					color: white;
 			}
 
 			div{
